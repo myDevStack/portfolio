@@ -370,3 +370,6 @@ h1, h2, h3, h4 {
   .cta-form { flex-direction: column; border-radius: 1.25rem; padding: 0.75rem; }
   .cta-form input { width: 100%; padding: 0.6rem; }
 }
+@media (max-width: 412px) {
+   .hero-center img{clip-path: circle(175px);}
+}
