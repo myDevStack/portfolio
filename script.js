@@ -2,19 +2,19 @@
 
 const projects = [
   {
-    title: "Lirante — Food Delivery Solution",
+    title: " — Food Delivery Solution",
     text: "A full delivery platform redesign — from courier routing screens to a consumer app that lifted repeat orders by 34% in the first quarter after launch.",
     tags: ["Product Design", "Mobile App", "Design System"],
     images: ["assets/work-mobile.jpg", "assets/work-web.jpg"],
   },
   {
-    title: "Nordbank — Fintech Dashboard",
+    title: " — Fintech Dashboard",
     text: "Rebuilt a dense analytics dashboard into a calm, glanceable workspace for treasury teams, cutting task completion time nearly in half.",
     tags: ["Web App", "Data Visualization", "UI/UX"],
     images: ["assets/work-dashboard.jpg", "assets/work-mobile.jpg"],
   },
   {
-    title: "Bloomwell — Health Landing Pages",
+    title: " — Health Landing Pages",
     text: "A conversion-focused landing system for a telehealth startup — modular sections, A/B-tested hero variants and a 2.1x signup lift.",
     tags: ["Landing Page", "Web Design", "CRO"],
     images: ["assets/work-web.jpg", "assets/work-dashboard.jpg"],
